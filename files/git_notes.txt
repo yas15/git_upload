@@ -2,7 +2,7 @@
 # which will add all files of the current directory to track (including untracked) and then use
 git add . 
 
-git commit -a
+git commit -m "first commit"
 
 
 # Send commit objects to another repository
