@@ -2,7 +2,7 @@
 # which will add all files of the current directory to track (including untracked) and then use
 git add . 
 
-git commit -m "2nd commit"
+git commit -m "3rd commit"
 
 
 # Send commit objects to another repository
