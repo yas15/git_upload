@@ -1,1 +1,18 @@
 # git_upload
+
+
+
+# git-add - Add file contents to the index
+git add .
+ 
+
+# Commit the staged changes
+git commit -a -m "Update YG - 19th July 2023"
+
+
+# Push the committed changes to the remote repository
+git push
+
+ 
+
+ 
